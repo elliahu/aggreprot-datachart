@@ -1,0 +1,22 @@
+{
+  "name": "aggreprot-datachart",
+  "version": "0.1.9",
+  "description": "2D protein visualization",
+  "main": "datachart.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliahu/datachart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliahu/datachart/issues"
+  },
+  "homepage": "https://github.com/elliahu/datachart#readme",
+  "types": "datachart.d.ts"
+}

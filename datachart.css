@@ -1,0 +1,36 @@
+@import "./external/uPlot.min.css";
+
+.uplot {
+    display: inline-block;
+    vertical-align: top;
+}
+.u-select {
+    pointer-events: all;
+    cursor: grabbing;
+}
+
+.u-grip-l {
+    position: absolute;
+    left: -5px;
+    width: 10px;
+    height: 100%;
+    background: #FF715B;
+    cursor: ew-resize;
+}
+
+.u-grip-r {
+    position: absolute;
+    right: -5px;
+    width: 10px;
+    height: 100%;
+    background: #2F52E0;
+    cursor: ew-resize;
+}
+
+button.selected-from-profile {
+    background: red;
+}
+
+button.selected-from-structure {
+    background: yellow;
+}
